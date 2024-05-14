@@ -74,7 +74,7 @@ const Contact = () => {
         >
           <span>Dear Alan Isaac</span>
           <textarea
-            s={6}
+            rows={6}
             className="bg-transparent border-b-2 border-b-black outline-none resize-none"
             name="user_message"
           />
